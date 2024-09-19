@@ -46,6 +46,3 @@ The dataset used for this project is from Kaggle, containing news articles with 
 - **Naive Bayes Accuracy**: ~85%
 - **Passive Aggressive Accuracy**: ~88%
 - Confusion matrices visualize the performance and types of errors made by the classifiers.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
