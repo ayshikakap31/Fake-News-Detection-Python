@@ -17,7 +17,7 @@ The dataset used for this project is from Kaggle, containing news articles with 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fake-News-Detection-Python.git
+   git clone https://github.com/ayshikakap31/Fake-News-Detection-Python.git
    ```
 2. Navigate to the project directory:
    ```bash
